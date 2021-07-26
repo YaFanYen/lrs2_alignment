@@ -12,7 +12,7 @@ If no sox installed, all the .mp4 files need to be converted to .wav files by `p
 
 since it can only process on the .wav files.
 
-After installing montrel-forced-alignment (http://montreal-forced-aligner.readthedocs.io/),
+After installing montreal-forced-alignment (http://montreal-forced-aligner.readthedocs.io/),
 
 we can generate the corresponding alignment file with `python3 align.py`.
 
