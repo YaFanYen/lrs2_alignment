@@ -14,6 +14,6 @@ since it can only process on the .wav files.
 
 After installing montreal-forced-alignment (http://montreal-forced-aligner.readthedocs.io/),
 
-we can generate the corresponding alignment file with `python3 align.py`.
+we can generate the corresponding alignment file with `python align.py`.
 
 Then rename the generated file and move it to the original directory with `python rename.py`.
