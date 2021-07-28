@@ -16,4 +16,4 @@ After installing montreal-forced-alignment (http://montreal-forced-aligner.readt
 
 we can generate the corresponding alignment file with `python3 align.py`.
 
-
+Then rename the generated file and move it to the original directory with `python rename.py`.
